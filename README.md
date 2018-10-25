@@ -3,7 +3,9 @@ I am Varsha Chawla.I am currently persuing B.E from Acropolis Institute Of Techn
 My University roll no is 0827CS161238.
 
 1.) First Come First Serve Scheduling Alogorithm.
+
 2.) Shortest Job First Scheduling Alogorithm.
+
 3.) Priority Scheduling Algorithm.
 4.) Round Robin Scheduling Algorithm.
 5.) Producer Consumer Problem Without Thread.

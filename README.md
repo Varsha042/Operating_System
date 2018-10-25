@@ -7,12 +7,21 @@ My University roll no is 0827CS161238.
 2.) Shortest Job First Scheduling Alogorithm.
 
 3.) Priority Scheduling Algorithm.
+
 4.) Round Robin Scheduling Algorithm.
+
 5.) Producer Consumer Problem Without Thread.
+
 6.) Producer Consumer Problem With Thread.
+
 7.) Reader Writer Without Thread.
+
 8.) Reader Writer with Thread.
+
 9.) Banker's Algorithm.
+
 10.) FIFO Page Replacement Algorithm.
+
 11.) FIFO Disk Scheduling Algorithm.
+
 12.) LRU Page Replacement Algorithm.

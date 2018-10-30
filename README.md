@@ -4,14 +4,23 @@ I am Varsha Chawla.I am currently persuing B.E from Acropolis Institute Of Techn
 My University roll no is 0827CS161238.
 
 1.) First Come First Serve Scheduling Alogorithm.
+
 2.) Shortest Job First Scheduling Alogorithm.
+
 3.) Priority Scheduling Algorithm.
+ 
 4.) Round Robin Scheduling Algorithm.
+
 5.) Producer Consumer Problem Without Thread.
+
 6.) Producer Consumer Problem With Thread.
-7.) Reader Writer Without Thread.
-8.) Reader Writer with Thread.
-9.) Banker's Algorithm.
-10.) FIFO Page Replacement Algorithm.
-11.) FIFO Disk Scheduling Algorithm.
-12.) LRU Page Replacement Algorithm.
+
+7.) Reader Writer with Thread.
+
+8.) Banker's Algorithm.
+
+9.) FIFO Page Replacement Algorithm.
+
+10.) FIFO Disk Scheduling Algorithm.
+
+11.) LRU Page Replacement Algorithm.
